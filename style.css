@@ -1,0 +1,52 @@
+body{
+    background-color: rgb(243, 187, 196);
+}
+#form{
+    margin: 90px auto;
+    border: 1px solid black;
+    height: 200px;
+    width: 200px;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 7px 3px rgb(144, 128, 128);
+    background-color: rgba(255, 20, 145, 0.611);
+}
+input{
+    background-color: rgb(239, 243, 243);
+    color: rgb(49, 8, 8);
+    border:1px solid ;
+    border-radius: 10px;
+    padding: 6px;
+      box-shadow: 3px 3px rgb(149, 85, 85);
+
+    }
+
+#btn{
+    background-color: rgb(125, 210, 210);
+    font-weight: bold;
+     box-shadow: 3px 3px rgb(149, 85, 85);
+   
+}
+#btn:hover{
+    background-color: rgb(39, 194, 194);
+    
+}
+
+small{
+    display:none;
+    font-size: 8px;
+    margin:6px;
+    color: rgb(176, 22, 122);
+}
+
+#resultMessage{
+    text-align: center;
+    margin:40px;
+    color: rgba(153, 10, 108, 0.972);
+    font-size: 25px;
+    font-weight: bold;
+   
+   
+    
+}
+    
